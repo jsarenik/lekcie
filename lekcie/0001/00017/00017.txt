@@ -1,0 +1,179 @@
+2021-01-27 (Wednesday)
+
+jo
+😃
+vidím
+ukazuj
+OK
+ako?
+nerob to
+😃
+jo
+i minus
+pomlčka = minus
+OK
+ako doplníš bez toho aby si to celé písal?
+daj "cd .."
+znova
+pozor chybala Ti medzera
+ono to fungovalo
+lebo to tak vo Windowse urobili
+tak teraz daj
+cd pete
+a stlač TAB
+jo, toho júzra
+tzn. nie úšera
+😉
+daj teraz toto:
+cd pete
+a stlač TAB
+cd pete<TAB>
+halo
+nájdi si klávesu TAB
+to tam nepíš
+na klávesnici nájdi TAB
+jo
+tak napíš
+cd pete
+a stlač TAB
+TAB
+nie Enter
+hurá
+chápeš čo robí TAB?
+áno, daj enter
+super
+OK
+musí byť medzera
+cd ..
+a nie cd..
+čítaj čo som písal
+nahlas
+😃
+OK OK
+s príkazmi
+superuser je len web kde máš článok
+hneď som tu
+už som tu
+tak si urob adresár
+vojdi doňho
+veď si to pred chvíľou urobil 😃
+nie, to už beží
+nie
+stláčaj šípku hore (keď si v tom príkazovom riadku)
+ešte
+ešte
+ešte
+ešte
+ešte
+ešte
+pomaly sám kým nepoviem dosť
+jo
+dosť
+ako urobíš adresár?
+daj šípku dole
+nenene
+toto!
+ale veď si to sám urobil
+nazvi ho inak
+taký tam už máš
+vojdi doňho
+nie
+v príkazovom riadku
+medzera
+to tak nefunguje
+to nie je Word
+OK
+daj dir
+a teraz
+echo ahoj > pokus.txt
+jo
+pardon
+teraz
+áno
+medzery sú dobré
+medzera nič nepokazí, teda medzera nesmie byť v názve súboru
+to si napíš do zošita
+áno a daj ENTER
+skús mi ale povedať čo sa stane
+keď dáš ENTER
+nie
+napíš na začiatok toho riadku
+rem
+rem (medzera)
+uvidíš
+rem + medzera
+nie
+nie
+nie
+na začiatok tohto riadku napíš rem
+nie medzeru
+rem + medzeru
+"rem "
+jo
+ENTER
+nič
+rem je komentár
+takže to nič neurobilo ale tento riadok máš v pamäti
+to si hneď ukážeme keď budeš písať skript
+daj
+nič nové
+to je OK
+napíš
+echo ahoj
+ENTER
+tak čo sa stane keď dáš to čo bolo hore (ale bez rem)?
+stlač šípku hore
+kým sa nedostaneš na ten rem
+teraz vymaž ten rem
+jo
+čo sa stane?
+medzera na začiatku byť nemusí
+veď "echo ahoj" máš hneď nad tým
+tak vidíš čo to robí...
+teraz nejde o rem
+teraz ide o tú ">"
+čo sa stane?
+nemáš to v poznámkach?
+
+14:21
+A
+slišíš mně
+
+14:22
+pardon
+bol som pri študentovi
+čo sa stane teda?
+tak si píš
+vypíše to "ahoj"
+a dá to do súboru pokus.txt
+teda vypíše to do súboru…
+spusť
+ENTER
+dir
+type pokus.txt
+áno
+a vieš to vypočítať?
+prečo 7?
+ahoj - koľko je to písmen?
+OK, takže už máme štyri
+jo
+potom sú tam špeciálne znaky, ktoré nevidíš
+znak konca riadku
+NIE
+txt je v názve súboru!
+nemá nič s tým čo sme vypísali
+znie to pekne, ale chcem aby to bolo jasné aj Tebe
+jo
+tak na domácu úlohu precvičovať
+tie príkazy
+musíš písať z pamäti
+to bolo OK
+ale potom keď som sa Ťa opýtal ako urobíš adresár tak
+jo
+
+A: Budeš mít příště mikrofon?
+
+OK
+v pondělí budu
+OK
+ahoj!

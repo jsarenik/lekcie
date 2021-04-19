@@ -1,0 +1,36 @@
+2021-02-24 (Wednesday)
+
+realpath
+readlink
+echo ahoj > subor
+ln -s subor odkaz
+
+    $ readlink odkaz
+    subor
+
+ln -s /toto/neexistuje/nikde nodkaz
+ls -l
+
+    $ readlink nodkaz
+    /toto/neexistuje/nikde
+
+man vi (in search engine)
+:q
+:w text
+:wq
+:wq!
+
+vim
+
+https://en.wikipedia.org/wiki/Bracket
+
+( ) Parentheses or round brackets or first brackets
+
+{ } Braces or curly brackets or second brackets
+
+[ ] Brackets or square brackets or third brackets
+
+< > Chevrons or angle brackets 
+
+
+root.cz

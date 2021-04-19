@@ -1,0 +1,6 @@
+2021-04-05 (Monday)
+
+grep
+cat
+
+https://2048.bublina.eu.org

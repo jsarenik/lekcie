@@ -1,0 +1,11 @@
+2021-04-12 (Monday)
+
+vi
+:w q
+o
+O
+a
+dd
+
+echo ahoj > pokus.txt
+echo kvak >> pokus.txt

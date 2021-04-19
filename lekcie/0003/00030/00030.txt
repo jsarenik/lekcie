@@ -1,0 +1,10 @@
+2021-03-17 (Wednesday)
+
+nabudúce mocniny 2^0 .. 2^10
+
+notepad
+pokus.bat
+Home, End (řádek)
+
+oy vey :-)
+@echo off

@@ -1,0 +1,13 @@
+2021-01-03 (Wednesday)
+
+Operačné systémy
+
+ - Windows (DOS)
+ - UNIX
+   - UN*X
+     - Linux
+     - *BSD (FreeBSD, OpenBSD, NetBSD, macOS, ...)
+     - Solaris
+ - Plan 9
+
+Zapomněl 2x, omlouvám se 3x.

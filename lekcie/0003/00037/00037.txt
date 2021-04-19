@@ -1,0 +1,73 @@
+2021-04-19 (Monday)
+
+arp -a
+fyzická (MAC) adresa
+MAC = Media Access Control (https://en.wikipedia.org/wiki/MAC_address)
+je zapísaná v hexadecimálnom (šestnástkovom) tvare
+(v šestnástkovej sústave)
+
+j 0
+A 0
+j 1
+j 2
+j 3
+j 4
+j 5
+j 0-9
+j 123
+j 123 v 10-tkovej sústave
+j 123 = 3*10^0 + 2*10^1 + 1*10^2
+j x^0 = 1
+j x^0 = 1, x patrí do R
+j N
+j N = 1,2,3,...,nekonečno
+j R = reálne čísla
+j R0 = reálne čísla vrátane 0
+j 0 nepartí do N
+j N = prirodzené čísla
+j 0.12345
+j R = (0 až nekonečno)
+j N = [1, 2, 3, až nekonečno)
+j e
+j 23
+j 45
+j 5 = 5*10^0
+j ----------
+j 10 sa zapisuje číslicami 0-9
+j 10tková sústava pozná číslice od 0 až po 10-1
+j Xková sústava pozná číslice 0 až po X-1
+j X = 2
+A 2kova soustava poyn8a cislice 0 az po 2-1
+j 5 (10) = x (2)
+j ?
+j 5/2
+j 5/2 = 2.5
+j 2.5 / 2
+j xyz (10)
+j xyz = x*10^2 + y*10^1 + z*10^0
+j 123
+j 1 = x
+j 2 = y
+j 3 = z
+j -------
+j 5 (10) = ? (2)
+j 2^0
+j 5 (10) = x*2^2+ y*2^1 + z*2^0
+A 20=1
+j 2^0
+j 2^0
+A 2^0=1
+A 2^1=2
+A 2^2=4
+A 5=1
+A 5= 1*2^2+2*2^1+4*2^0
+j 5 = x*2^2 + y*2^1 + z*2^0
+j x,y,z partí do oboru [0,1]
+j x = ?
+A 1
+A x=1
+A y=0
+A z-1
+A z=1
+j 5 (10) = 101 (2)
+A 68-14-01-57-6C-7D

@@ -1,0 +1,32 @@
+2012-12-21 (Monday)
+
+_ podtržítko
+_ underscore
+
+j slash
+j TCP == Transfer Control Protocol
+j IP == Internet Protocol
+j TCP/IP
+j IPv6
+j TCP/IP
+j IPv4
+j x.y.z.w
+j TCP/IPv4
+j TCP/IPv6
+j 2a00:1450:4014:80d::200e
+j 0 a 1
+j hexadecimálna sústava
+j 16-tková
+j 0 1 2 3 4 5 6 7 8 9 a b c d e f
+j 0 1 2 3 4 5 6 7 8 9 A B C D E F
+j 216.58.201.110
+j x.y.z.w ^^
+j x = 216 …
+j -
+j _
+j Jaja_a_Paja.txt
+j _ underscore
+j podtržítko
+j batch
+j Microsoft Batch File Language
+j https://www.python.org/shell/

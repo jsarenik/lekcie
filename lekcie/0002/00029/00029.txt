@@ -1,0 +1,11 @@
+2021-03-15 (Monday)
+
+https://dslreports.com/speedtest
+bit
+byte = 8*bit
+kilobit = 1000*bit
+kilobyte = 1000*byte
+megabit = 1000*1000*bit = 1 000 000 (million) * bit
+megabyte = 1 000 000 * byte = 8 * 1 000 000 * bit
+
+ping

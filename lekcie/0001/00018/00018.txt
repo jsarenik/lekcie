@@ -1,0 +1,9 @@
+2021-02-01 (Monday)
+
+https://s-macke.github.io/jor1k/demos/main.html
+
+Domáce úlohy:
+
+ 1. Preskúmať menu "help" a nájsť tam niečo zaujímavé.
+ 2. Prejsť si všetky príkazy z Windows CMD a zistiť, ktoré
+    z nich nefungujú na Linuxe. Poznačiť v zošite.

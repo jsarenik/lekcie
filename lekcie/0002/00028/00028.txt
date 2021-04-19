@@ -1,0 +1,14 @@
+2021-03-10 (Wednesday)
+
+root.cz článok o Tor-e z roku 2008 že prezradí adresu servera
+z https certifikátu (dnes sa už https na Tor-e nepoužíva).
+
+127.0.0.1 (loopback IPv4)
+ping 127.0.0.1 (na Win cmd aj na Linux-e v shelli)
+
+jor1k (emulator):
+
+  touch a
+  yes | rm -i a
+
+iohry

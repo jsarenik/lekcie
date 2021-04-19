@@ -1,0 +1,10 @@
+2021-03-08 (Monday)
+
+opakovanie: Tor
+
+opravovanie
+
+P8Z77-M PRO
+BIOS Version: 1616
+
+Po odstránení chybnej grafickej karty z počítača všetko funguje.

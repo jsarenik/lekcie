@@ -1,0 +1,7 @@
+2021-02-08 (Monday)
+
+štandardný vstup (0)
+štandardný výstup (1)
+chybový výstup (2)
+
+copy.sh, Windows 95

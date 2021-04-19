@@ -1,0 +1,10 @@
+2021-01-04 (Monday)
+
+https://blockly.games/
+
+n https://blockly.games/
+n zdrojový kód
+n source code
+A if (getX() &lt; 80) { heading(0); } else { heading(270); }
+A https://bin.bublina.eu.org/?562a31841c1035f1#G8hdNx6yHB4uAMnFZLqcXdnwT6vRBGy4xbXMBbzWEx2B
+n skončili sme na Pták 5
