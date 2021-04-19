@@ -42,7 +42,7 @@ j 8a2b40f7a82694933fdd5be7e91f91408ede4645794d02587aa030fb7f1b11a9
 j C 25 a5 26 4b a1 d5 b5 48 bb 6e
 A left
 there's 1 participant
-j https://github.com/jsarenik/lekcie/0000/00008/00008.txt
+j https://github.com/jsarenik/lekcie/blob/master/lekcie/0000/00008/00008.txt
 j https://en.wikipedia.org/wiki/Abraham_Lincoln
 A joined
 there are 2 participants
