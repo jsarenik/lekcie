@@ -1,3 +1,65 @@
 2021-04-21 (Wednesday)
 
-
+A https://codepen.io/shemmy/pen/mERjBM?editors=1000
+j 68-14-01-57-6C-7D
+A 00000000
+A 00-00-00-00
+j (dvojková) = (desiatková)
+j 0 = 0
+j 1 = 1
+j 10 = 2
+j 11 = 3
+j 100 = 4
+j 101 = 5
+j 110 = 6
+A 111 = 7
+A 1000 = 8
+A 1001 = 9
+j 1 0 0 1 to je 9
+j 1*8 + 0*4 + 0*2 + 1*1
+A 1010 = 10
+j 0 = 0
+j 1 = 1
+j 2 = 2
+j 16tková = desiatková
+j (16tková) = (desiatková)
+j 0 = 0
+j 1 = 1
+j 2 = 2
+A 3 = 3
+A 4 = 4
+A 5 = 5
+A 6 = 6
+A 7 = 7
+A 8 = 8
+A 9 = 9
+A 10 =10
+j A = 10
+A b = 11
+A c = 12
+A d = 13
+A e = 14
+A f = 15
+A 10 = 16
+j (dvojková) = (šestnástková)
+j 1001 = 9
+j 1111 = F
+j 1111 = 15 (base 10)
+j 1111 (base 2) = 15 (base 10)
+j 1111 (base 2) = f (base 16)
+j 1010 (base 2) = ? (base 16)
+A 1010 (base 2) = a (base 16)
+j 10101010 (base 2) = ? (base 16)
+A 10101010 (base 2) = aa (base 16)
+j 1 = 1
+j 0 = 0
+j 1 = 1
+j 10 = 2
+j 11 = 3
+j 1010 = A
+j 1011 = B
+j 1100 = C
+j 1101 = D
+j 1111 = F
+j 1110 = E
+j 1111 = F
