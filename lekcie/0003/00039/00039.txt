@@ -1,0 +1,63 @@
+2021-04-26 (Monday)
+
+j (desiatková) ~ (dvojková)
+A 0 ~ 0
+A 1 ~ 1
+A 2 ~10
+A 3 ~ 11
+A 4 ~ 100
+A 5 ~ 101
+A 6 ~ 110
+A 7 ~ 111
+A 8 ~ 1000
+A 15 ~ 1111 = 8 + 4 + 2 + 1
+j (šestnástková) ~ (desiatková)
+A f
+A f ~ 15
+j 68-14-01-57-6C-7D
+j FF ~ 255
+j FE ~ 254
+j F ~ 15
+j FF ~ 255 = 16*F + 1*F
+j 12 = 10*1 + 1*2
+j 16*15 + 1*15
+j 240 + 15
+j 11 = 10*1 + 1*1
+j FE = 16*15 + 1*14
+j inkrementace
+j increment
+j +1
+j číslo=FF
+j číslo +1 = 100
+j dekrementace
+j decrement
+j -1
+j číslo = FF
+j číslo -1 = FE
+j číslo++
+j číslo++ = 100
+j číslo-- = FE
+j (dvojková) ~ (šestnástková)
+A 15 ~ F
+A 1111 ~ f
+A ff ~ 11111111
+A fff ~ 111111111111
+j (šestnástková) ~ (dvojková)
+j 1 ~ 1
+j 3 ~ 11
+j 7 ~ 111
+j 1 ~ 0001
+j 3 ~ 0011
+j 7 ~ 0111
+j 15 ~ 1111
+j F37
+A 111100110111
+j A=1
+j inc(A)
+A 1+1
+j A=8
+j inc(A)= ?
+j A = inc(A)
+j A = 9
+j A = inc(A)
+j x = 5
