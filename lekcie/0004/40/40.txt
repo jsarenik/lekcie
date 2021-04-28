@@ -1,2 +1,23 @@
 2021-04-28 (Wednesday)
 
+Cortana
+remove cortana
+
+mkdir pokusy
+cd pokusy
+git clone httpsw//
+git clone https:// github
+git clone https://github.com/jsarenik/lekcie
+cd lekcie
+ls
+cd lekcie
+ls
+cd 0000
+cd 00001
+cat 00001.txt
+less 00001.txt
+cd ../..
+cd 0003
+cd 00039
+less 00039.txt
+### (použi klávesy j k)
