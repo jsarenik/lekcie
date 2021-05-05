@@ -1,3 +1,11 @@
 2021-05-05 (Wednesday)
 
+Vodafone blokuje 1.1.1.1
 
+opakovanie mocnín dvojky
+
+DNS
+DHCP
+
+manuálna konfigurácia IPv4 tým že sme zadali rovnaké
+hodnoty aké nám vypísal `ipconfig /all`
