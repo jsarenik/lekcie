@@ -1,0 +1,8 @@
+2021-05-19 (Wednesday)
+
+HTML, Notepad
+gutenberg.org
+
+<h1>Header 1 - Nadpis 1</h1>
+<h2>Header 2 - menší Nadpis 2</h2>
+<p>paragraph - odstavec</p>
