@@ -1,0 +1,18 @@
+2021-05-24 (Monday)
+
+Dohodli sme sa na presune času pondelňajších lekcií.
+
+V stredu zostáva pôvodný čas.
+
+trochu histórie: Windows 95, My computer, C:, A: Floppy
+porovnali sme s Tento počítač na novom Windowse
+
+github.com
+gitpod.com/#https://github.com/jsarenik/lekcie
+
+brew install tmate
+tmate
+
+V Github Shell okne sme sa cez ssh pripojili na tmate,
+ktorý bežal na gitpod.io, potom pár príkazov (mkdir, rmdir, cat, vi)
+na zopakovanie.
