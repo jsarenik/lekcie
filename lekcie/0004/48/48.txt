@@ -1,0 +1,9 @@
+# 2021-05-26 (Wednesday)
+
+CSS
+csszengarden.com
+
+`CTRL-A` (vyber všetko), `CTRL-C`
+Github Shell (vo Windows) `SHIFT+Insert` (na notebooku `SHIFT+Fn+PrtSc`)
+
+`SHIFT+šípka`, `CTRL-X` (cut)
