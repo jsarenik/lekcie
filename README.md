@@ -5,3 +5,4 @@
 `lang=sk,en`
 
 Niekedy tak, inokedy tak.
+pokush
