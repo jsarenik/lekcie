@@ -7,10 +7,7 @@ FROM gitpod/workspace-full
 # More information: https://www.gitpod.io/docs/config-docker/
 # :-)
 
-RUN sudo apt-get update \
- && sudo apt-get install -y \
-    busybox
- && sudo rm -rf /var/lib/apt/lists/*
+RUN sudo apt-get update && sudo apt-get install -y busybox && sudo rm -rf /var/lib/apt/lists/*
 
 # && pip install \
 # python packages
