@@ -5,4 +5,8 @@
 `lang=sk,en`
 
 Niekedy tak, inokedy tak.
-pokush
+
+```
+nmtui
+/mnt/custom/run.sh
+```
