@@ -1,5 +1,6 @@
 body {
   background-color: thistle;
+  border: 2px solid gray;
   font-family: sans-serif;
   margin-left: auto;
   margin-right: auto;
