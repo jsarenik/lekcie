@@ -37,3 +37,14 @@ nav ul li a {
 text-decoration:none;
 color:#111111;
 }
+p.top-tip {
+border:4px #00AFEB;
+border-radius: 10px;
+padding:16px;
+background-color: #C5EBFB;
+}
+p.top-tip {
+  color: Black;
+  content: "TOP TIP: ";
+  font-weight: bold;
+}
