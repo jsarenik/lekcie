@@ -50,26 +50,8 @@ p.top-tip {
 }
 table {
   font-size:70%;
-}
-th, td {
-}
-th {
-}
-td {
-}
-table {
-  font-size:70%;
+  border-collapse: collapse;
   width: 100%
-}
-th, td {
-}
-th {
-}
-td {
-}
-table {
-  font-size:70%;
-  width: 100%;
 }
 th, td {
   border:1px slolid #000000;
