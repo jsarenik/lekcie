@@ -67,3 +67,14 @@ th {
 }
 td {
 }
+table {
+  font-size:70%;
+  width: 100%;
+}
+th, td {
+  border:1px slolid #000000
+}
+th {
+}
+td {
+}
