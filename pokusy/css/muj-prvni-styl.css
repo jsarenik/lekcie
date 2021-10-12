@@ -37,6 +37,7 @@ nav ul li a {
 text-decoration:none;
 color:#111111;
 }
+  nav li.selected {color:#606060;}
 p.top-tip {
 border:4px #00AFEB;
 border-radius: 10px;
