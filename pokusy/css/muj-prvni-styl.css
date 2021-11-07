@@ -64,3 +64,6 @@ th {
 td {
   background-color: #BA99C0;
 }
+nav li a:hover {
+  text-decoration: underline;
+}
