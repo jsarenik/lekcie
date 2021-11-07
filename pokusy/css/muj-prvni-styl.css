@@ -67,3 +67,17 @@ td {
 nav li a:hover {
   text-decoration: underline;
 }
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+  background-color: black;
+  color: white;
+}
