@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <Link type="text/css" rel="stylesheet" href="css/full-style.css"/>
+</head>
+<body>
+<p>
+    <img id="display-image" onlock="swapImage()" src="images/01.png" width="180" height="180"/> 
+</p>
+<p>klikněte na obrázek a změňte ho.</p>
+<script>
+    function swapImage() {
+    var imageDisplayd = document.getElementById(`display-image`); if (imageDisplay.scr.match("images/01.png"))
+    {imagedisplay.scr = "images/02.png";
+}
+    else {
+        imageDisplay.src = "images/01.png";
+}
+}
+</script>    
+</body>     
+</html>
